@@ -10,3 +10,5 @@ Solo-built for NASA Space Apps 2025. Designs regolith composites for Mars radiat
 - NASA regolith studies (NTRS.nasa.gov)
 
 License: MIT
+Challenge: [Your Challenge Name]
+Goal: Design novel regolith composites for Mars shielding using AI inverse design.
